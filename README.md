@@ -17,8 +17,3 @@ Requires Node 22.13+ (uses built-in SQLite, so no npm install needed). For Ollam
 - `/decide` logs a decision with your expectation and confidence; `/outcome <id>` records the result later.
   Predict mode uses this to tell you if you're over/under-confident.
 - `/journal` saves entries. Entries written in `past` mode stay in `past` mode only.
-
-## Ideas for next steps
-- Embeddings for better memory recall
-- A web UI (Express + simple HTML)
-- Weekly auto-reflection summary
