@@ -1,0 +1,10 @@
+{
+  "name": "digital-twin",
+  "version": "1.0.0",
+  "description": "A private, local-first digital twin: decision partner, debater, mirror.",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env src/index.js"
+  },
+  "dependencies": {}
+}

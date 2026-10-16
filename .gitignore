@@ -1,0 +1,5 @@
+node_modules
+twin.db
+twin.db-*
+profile.md
+.env
